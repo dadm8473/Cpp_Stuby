@@ -119,6 +119,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="레퍼런스의_도입.cpp" />
+    <ClCompile Include="상수에_대한_참조자.cpp" />
     <ClCompile Include="함수_사용하기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
